@@ -1,0 +1,45 @@
+_repo: Collection-complete-des-oeuvres-de-l-Abbe-de-Mably-Volume-1-of-15_53279
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Brizard, Gabriel
+    deathdate: 1793
+    gutenberg_agent_id: '47054'
+    url: http://www.gutenberg.org/2009/agents/47054
+creator:
+  author:
+    agent_name: Mably, Gabriel Bonnot de
+    aliases:
+    - Mably, Abbe de
+    - Bonnot de Mably, Gabriel
+    - De Mably, Gabriel Bonnot
+    - Mably, Abbé de
+    birthdate: 1709
+    deathdate: 1785
+    gutenberg_agent_id: '47301'
+    url: http://www.gutenberg.org/2009/agents/47301
+  editor:
+    agent_name: Arnoux, Guillaume
+    gutenberg_agent_id: '48137'
+    url: http://www.gutenberg.org/2009/agents/48137
+description: ''
+gutenberg_bookshelf:
+- FR Histoire
+- FR Politique
+- FR Philosophie, Religion et Morale
+gutenberg_issued: '2016-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53279'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Political science'
+- !lcsh 'History -- Philosophy'
+- !lcc 'D'
+- !lcsh 'Law -- Philosophy'
+- GITenberg
+title: Collection complète des oeuvres de l'Abbé de Mably, Volume 1 (of 15)
+url: http://www.gutenberg.org/ebooks/53279
