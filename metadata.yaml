@@ -1,11 +1,14 @@
 _repo: Collection-complete-des-oeuvres-de-l-Abbe-de-Mably-Volume-1-of-15_53279
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Brizard, Gabriel
     deathdate: 1793
     gutenberg_agent_id: '47054'
     url: http://www.gutenberg.org/2009/agents/47054
+covers:
+- cover_type: archival
+  image_path: 53279-h/images/cover-s.jpg
 creator:
   author:
     agent_name: Mably, Gabriel Bonnot de
@@ -23,6 +26,8 @@ creator:
     gutenberg_agent_id: '48137'
     url: http://www.gutenberg.org/2009/agents/48137
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53279#Collection-complete-des-oeuvres-de-l-Abbe-de-Mably-Volume-1-of-15
 gutenberg_bookshelf:
 - FR Histoire
 - FR Politique
